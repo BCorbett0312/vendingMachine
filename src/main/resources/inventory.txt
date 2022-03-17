@@ -1,0 +1,12 @@
+A1|Barbeque|3.05|Chip
+A2|Salt and Vinegar|1.25|Chip
+A3|Doritos|1.60|Chip
+B1|Moonpie|1.80|Candy
+B2|Cowtales|1.50|Candy
+B3|Snickers|1.00|Candy
+C1|Cola|1.25|Drink
+C2|Sprite|2.00|Drink
+C3|Dr. Pepper|1.85|Drink
+D1|Big League Chew|0.85|Gum
+D2|Big Red|0.25|Gum
+D3|Juicy Fruit|0.35|Gum
